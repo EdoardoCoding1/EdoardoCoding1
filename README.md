@@ -16,7 +16,7 @@ I am a Edoardo DeiRossi, a student from H-Farm and I want to explore Web Develop
 &nbsp;<img src="DJANGO.png" width="35px">&nbsp;&nbsp;
 <img src="NODEJS.png" width="30px">&nbsp;&nbsp;&nbsp;
 <img src="GODOT.png" width="43px">&nbsp;&nbsp;
-<img src="UNITY.png" width="40px">&nbsp;&nbsp;&nbsp;
+<img src="C.png" width="40px">&nbsp;&nbsp;&nbsp;
 <img src="SQL.png" width="40px">&nbsp;&nbsp;
 <img src="XCODE.png" width="40px">&nbsp;&nbsp;
 <img src="GIT.png" width="40px">
