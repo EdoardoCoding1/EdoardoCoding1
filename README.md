@@ -1,11 +1,11 @@
-# Hi there 👋
+# 👋 Hi there
 
 I am a Edoardo DeiRossi, a student from H-Farm and I want to explore Web Development and Machine Learning. I am using github to post my projects, make new friends and learn more about programming. 
 <br>My favourite programming language is python as it is very elastic, dynamically typed and easy to use. It has a huge ecosystem and serves hundreds of inserted libraries and package managers, and can be use for many different projects .
+<br><br>
+
+### 🛠️ Here are some of the tools I work with :
 <br>
-
-<h3>Here are some of the tools I work with :</h3>
-
 <html>
 
 
@@ -25,16 +25,15 @@ I am a Edoardo DeiRossi, a student from H-Farm and I want to explore Web Develop
 
 </html>
 
+<br>
 
-`some code`
+### 🐙 My Github
 
-Here are some ideas to get you started:
+<img src="http://github-readme-streak-stats.herokuapp.com?user=EdoardoCoding1&theme=github-dark">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardoCoding1&layout=compact&theme=vision-friendly-dark">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🏫 What I am working on ...
+
+- 🔭 I’m currently creating a turn based chess game running on a server.
+- 🤔 I’m looking for help with backend programming.
+- 📫 How to reach me: edoardo.deirossi@student.h-is.com
+- ⚡ Fun fact: I like coding
