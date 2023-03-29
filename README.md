@@ -4,7 +4,7 @@ I am a Edoardo DeiRossi, a student from H-Farm and I want to explore Web Develop
 <br>My favourite programming language is python as it is very elastic, dynamically typed and easy to use. It has a huge ecosystem and serves hundreds of inserted libraries and package managers, and can be use for many different projects .
 <br><br>
 
-### 🛠️ Here are some of the tools I work with :
+### 🛠️ Tools and Languages :
 <br>
 <html>
 
