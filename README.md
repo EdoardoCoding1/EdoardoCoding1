@@ -10,8 +10,8 @@ I am a Edoardo DeiRossi, a student from H-Farm and I want to explore Web Develop
 <img src="HTML5.png" width="40px">&nbsp;&nbsp;&nbsp;<img src="CSS3.png" width="29px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="JS.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="PHP.png" width="60px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="PYTHON.png" width="40px">
-<img src="BASH.jpg" width="75px">
+<img src="PYTHON.png" width="40px">&nbsp;&nbsp;&nbsp;
+<img src="BASH.jpg" width="60px">
   
 &nbsp;<img src="DJANGO.png" width="35px">&nbsp;&nbsp;
 <img src="NODEJS.png" width="30px">&nbsp;&nbsp;&nbsp;
