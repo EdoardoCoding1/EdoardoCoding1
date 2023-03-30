@@ -1,5 +1,7 @@
 # 👋 Hi there
 
+<img src="https://komarev.com/ghpvc/?username=EdoardoCoding1&label=PROFILE+VIEWS">
+
 I am a Edoardo DeiRossi, a student from H-Farm and I want to explore Web Development and Machine Learning. I am using github to post my projects, make new friends and learn more about programming. 
 <br>My favourite programming language is python as it is very elastic, dynamically typed and easy to use. It has a huge ecosystem and serves hundreds of inserted libraries and package managers, and can be use for many different projects .
 <br><br>
