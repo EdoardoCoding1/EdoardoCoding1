@@ -39,4 +39,4 @@ I am a Edoardo DeiRossi, a student from H-Farm and I want to explore Web Develop
 - 🤔 I’m looking for help with backend programming.
 - 📫 How to reach me: edoardo.deirossi@student.h-is.com
 - ⚡ Fun fact: I like coding
-- 🎁 Here is a gift for you ! <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Gift Me</a>
+- 📺 Here is a video for you ! <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Explore ></a>
