@@ -3,7 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=EdoardoCoding1&label=VISITOR COUNT = ">
 
 I am Edoardo, a student from H-Farm and I want to explore Web Development and Machine Learning. I am using github to post my projects, make new friends and learn more about programming. 
-<br>My favourite programming language is python as it is very elastic, dynamically typed and easy to use. It has a huge ecosystem and serves hundreds of inserted libraries and package managers, and can be use for many different projects .
+<br>My favourite programming language is python as it is very elastic and easy to learn. It has a huge ecosystem and serves hundreds of inserted libraries and package managers, and can be used for many different projects .
+<br><br> I also liked to work with C languages to build games and database configuration models. 
 <br><br>
 
 ### 🛠️ Tools and Languages :
