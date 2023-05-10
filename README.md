@@ -12,7 +12,7 @@ I am Edoardo, a student from H-Farm and I want to explore WebApp Development, Ga
 <html>
 
 
-<img src="C.png" width="40px">&nbsp;&nbsp;&nbsp;
+<img src="CS.png" width="40px">&nbsp;&nbsp;&nbsp;
 <img src="PYTHON.png" width="40px">&nbsp;&nbsp;&nbsp;
 <img src="PHP.png" width="60px">&nbsp;&nbsp;
 <img src="XCODE.png" width="40px">&nbsp;&nbsp;&nbsp;
