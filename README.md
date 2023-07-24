@@ -32,10 +32,9 @@ I am Edoardo, I'm a student and want to explore WebApp Development, Game Program
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=EdoardoCoding1&theme=github-dark">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardoCoding1&layout=compact&theme=vision-friendly-dark">
 
-### 🏫 What I am working on ...
+### What I am working on ...
 
-- 🔭 I’m currently creating a turn based chess game running on a server.
-- 🤔 I’m looking for help with backend programming.
-- 📫 How to reach me: edoardo.deirossi@student.h-is.com
+- 🔭 I’m currently creating a chess game.
+- 📫 My Email for reach me: edoardo.deirossi@student.h-is.com
 - ⚡ Fun fact: I like coding
 - 📺 Here is a video for you: <a href="https://www.youtube.com/watch?v=4Jui6Prje6o">Explore ></a>
