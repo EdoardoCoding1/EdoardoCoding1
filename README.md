@@ -17,7 +17,6 @@ I am Edoardo, a student from H-Farm and I want to explore WebApp Development, Ga
 <img src="PHP.png" width="60px">&nbsp;&nbsp;
 <img src="XCODE.png" width="40px">&nbsp;&nbsp;&nbsp;
 <img src="GIT.png" width="40px">&nbsp;&nbsp;
-<img src="BASH.jpg" width="50px">
 
 &nbsp;<img src="SWIFT.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="NODEJS.png" width="30px">&nbsp;&nbsp;&nbsp;
