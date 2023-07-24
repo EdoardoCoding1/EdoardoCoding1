@@ -24,7 +24,6 @@ I am Edoardo, a student from H-Farm and I want to explore WebApp Development, Ga
 <img src="HTML5.png" width="40px">&nbsp;&nbsp;&nbsp;<img src="CSS3.png" width="29px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="JS.png" width="40px">&nbsp;&nbsp;&nbsp;
 <img src="GODOT.png" width="43px">&nbsp;&nbsp;
-<img src="SQLdb.png" width="32px">&nbsp;&nbsp;
 
 </html>
 
