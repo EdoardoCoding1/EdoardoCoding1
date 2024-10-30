@@ -1,6 +1,7 @@
 # 👋 Hi there
 
 <img src="https://komarev.com/ghpvc/?username=EdoardoCoding1&label=VISITOR COUNT  &style=flat&color=orange">
+<img src="https://profile-counter.glitch.me/EdoardoCoding1/count.svg">
 
 I am Edoardo, I'm a student and want to explore WebApp Development, Game Programming & Machine Learning. I am using github to post my projects, make new friends and learn more about programming.
 <br>I mostly enjoy working with python as its syntax is easy and intuitive, which leads me into being more productive on projects and coding problems.
