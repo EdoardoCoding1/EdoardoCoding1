@@ -1,11 +1,12 @@
-# 👋 Hi there
+# 👋 Hi There
 
-My Total Views 👀
-<br><img src="https://profile-counter.glitch.me/EdoardoCoding1/count.svg">
+### 👀 Total Views : 
+<img src="https://profile-counter.glitch.me/EdoardoCoding1/count.svg">
 
-I am Edoardo, I'm a student and want to explore WebApp Development, Game Programming & Machine Learning. I am using github to post my projects, make new friends and learn more about programming.
-<br>I mostly enjoy working with python as its syntax is easy and intuitive, which leads me into being more productive on projects and coding problems.
-<br>I also liked to work with C languages to build games and database configuration models. 
+### 🙃 About myself :
+I am Edoardo, I'm a student and want to explore WebApp Development, Robot programming & Machine Learning. I use GitHub to post my projects, make new friends and solve coding problems.
+<br>My favorite language is Python as I mainly work with rasberry Pi boards. I find interesting using Swift and SwiftUI for creating macOS and iOS applications.
+<br>Additionally I also enjoy learning Machine and Network pentesting. 
 <br><br>
 
 ### 🛠️ Tools and Languages :
